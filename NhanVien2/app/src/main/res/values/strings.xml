@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SqliteDemo</string>
+    <string-array name="category">
+        <item>1980</item>
+        <item>1985</item>
+        <item>1990</item>
+
+    </string-array>
+</resources>
